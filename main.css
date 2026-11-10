@@ -1,9 +1,9 @@
-.table {
+.content-table {
     width: 100%;
     margin: 30px auto;
 }
 
-.table td {
+.content-table td {
     width: 50%;
     padding: 15px;
     text-align: center;
@@ -16,14 +16,15 @@
     border-radius: 15px;
 }
 
-.info {
+.info-box {
     background-color: #0087FE;
     padding: 25px;
     border-radius: 20px;
 }
 
-.long text {
+.long-text {
     margin-top: 40px;
     margin-bottom: 80px;
     text-align: center;
 }
+
